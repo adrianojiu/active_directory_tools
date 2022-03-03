@@ -1,0 +1,1 @@
+C:\zabbix\bin\zabbix_agentd.exe --config C:\zabbix\conf\zabbix_agentd.conf --install
